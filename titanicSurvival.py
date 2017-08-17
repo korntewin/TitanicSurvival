@@ -132,3 +132,4 @@ def histPlotCompare(df, colname, bins):
         ax2.set_ylabel('Frequency')
         ax2.set_title('Histplot of ' + col + ' alive')
         
+## GG
